@@ -1,2 +1,5 @@
 palpay_card_transactions_sample.csv
 palpay data new.csv
+# Jupyter Notebook output
+*.ipynb_checkpoints/
+*.ipynb.output/
