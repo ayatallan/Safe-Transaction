@@ -1,5 +1,2 @@
 copy.csv 
 newData.csv
-# Jupyter Notebook output
-*.ipynb_checkpoints/
-*.ipynb.output/
