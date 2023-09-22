@@ -1,0 +1,10 @@
+palpay_card_transactions_sample.csv
+palpay data new.csv
+Modeling .ipynb
+EDA.ipynb
+folium_MAP
+Preprocessing .ipynb
+fraud transaction detection Sama v1.ipynb
+# Jupyter Notebook output
+*.ipynb_checkpoints/
+*.ipynb.output/
